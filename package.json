@@ -29,7 +29,7 @@
     }
   },
   "scripts": {
-    "build": "rimraf ./dist && npx tsc && node ./transfer.js",
+    "build": "rimraf ./dist && npx tsc",
     "npm:publish": "npm run build && npm publish --access public",
     "link": "npm link"
   },
