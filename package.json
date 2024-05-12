@@ -1,6 +1,6 @@
 {
   "name": "@mukhindev/react-svg-use-symbol",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Sergey Mukhin",
   "description": "Easy use of SVG symbols in react",
   "repository": {
