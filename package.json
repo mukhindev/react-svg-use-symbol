@@ -5,7 +5,7 @@
   "description": "Easy use of SVG symbols in react",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mukhindev/react-svg-use-symbol.git"
+    "url": "git+https://github.com/mukhindev/react-svg-use-symbol.git"
   },
   "keywords": [
     "react",
