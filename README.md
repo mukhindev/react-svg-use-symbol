@@ -11,7 +11,7 @@ npm install @mukhindev/react-svg-use-symbol
 ## One-component example
 
 ```JavaScript
-import { createSVGSymbols } from "./createSVGSymbols";
+import { createSVGSymbols } from "@mukhindev/react-svg-use-symbol";
 
 const { Symbols, SVG } = createSVGSymbols({
   "two-circles": (
