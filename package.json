@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "author": "Sergey Mukhin",
   "description": "Easy use of SVG symbols in react",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukhindev/react-svg-use-symbol.git"
+  },
   "keywords": [
     "react",
     "ui",
@@ -26,7 +30,7 @@
   },
   "scripts": {
     "build": "rimraf ./dist && npx tsc && node ./transfer.js",
-    "publish": "npm run build && npm publish --access public",
+    "npm:publish": "npm run build && npm publish --access public",
     "link": "npm link"
   },
   "peerDependencies": {
